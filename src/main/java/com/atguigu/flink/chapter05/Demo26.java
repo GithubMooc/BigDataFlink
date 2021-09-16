@@ -12,6 +12,7 @@ import org.elasticsearch.common.xcontent.XContentType;
 
 import java.util.*;
 
+//Sink ElasticSearch
 public class Demo26 {
     public static void main(String[] args) throws Exception {
 
